@@ -1,0 +1,13 @@
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.exe
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.deps.json
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.runtimeconfig.json
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.runtimeconfig.dev.json
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.dll
+C:\Users\vanad\source\repos\Triplets\bin\Debug\netcoreapp3.1\Triplets.pdb
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.csprojAssemblyReference.cache
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.AssemblyInfoInputs.cache
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.AssemblyInfo.cs
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.csproj.CoreCompileInputs.cache
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.dll
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.pdb
+C:\Users\vanad\source\repos\Triplets\obj\Debug\netcoreapp3.1\Triplets.genruntimeconfig.cache
